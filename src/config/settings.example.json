@@ -1,0 +1,20 @@
+{
+  "base_url": "https://www.realtor.com",
+  "monitoring_mode": false,
+  "full_agent_details": false,
+  "export_formats": ["json", "csv", "xlsx", "xml"],
+  "input_file": "data/input.sample.json",
+  "output_dir": "output",
+  "tracker": {
+    "enabled": false,
+    "state_file": "data/tracker_state.json"
+  },
+  "http": {
+    "timeout_seconds": 15,
+    "max_retries": 3,
+    "backoff_factor": 0.8
+  },
+  "logging": {
+    "level": "INFO"
+  }
+}
