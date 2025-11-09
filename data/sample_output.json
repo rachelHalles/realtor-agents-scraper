@@ -1,0 +1,45 @@
+[
+  {
+    "first_year": 2016,
+    "title": "Dalton Carroll",
+    "description": "You are in the driver seat, and I am here to serve, teach, and consult...",
+    "phones": [
+      {
+        "number": "8176584914",
+        "type": "Mobile"
+      }
+    ],
+    "review_count": 0,
+    "office": {
+      "name": "TX Life Realty",
+      "website": "https://txliferealty.com",
+      "address": {
+        "city": "Mansfield",
+        "state": "Texas",
+        "postal_code": "76063"
+      }
+    },
+    "agent_rating": 0,
+    "address": {
+      "line": "6795 Hudson Cemetery Rd",
+      "city": "Mansfield",
+      "state": "TX"
+    },
+    "specializations": [
+      "Listing Agent",
+      "Buyer's Agent",
+      "Investment Properties"
+    ],
+    "photo": "https://ap.rdcpix.com/718057479/e357ddd413217d43f6078316fc464369a-c0o.jpg",
+    "for_sale_price": {
+      "min": 295000,
+      "max": 1422500,
+      "count": 8
+    },
+    "recently_sold": {
+      "count": 50
+    },
+    "experience": "9 years 5 months",
+    "web_url": "https://www.realtor.com/realestateagents/Dalton-Carroll_Mansfield_TX_2224179_454294512"
+  }
+]
